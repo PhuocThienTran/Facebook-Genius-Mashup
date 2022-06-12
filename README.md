@@ -1,4 +1,4 @@
-# Facebook-Spotify-Mashup
-This is a personal fullstack JS, Facebook Graph API, and Spotify API project named Facebook Spotify Mashup.
+# Facebook-Genius-Mashup
+A personal fullstack JS, Facebook Graph API, and Genius API project. Designed to allow users to get the current “hit” songs of their favorite artists.
 
 ***NOTE: Project is a WPI***
